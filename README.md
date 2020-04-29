@@ -1,6 +1,7 @@
 # hello-word
-The best board game in our opinion :)
+Настольная игра про мир IT :)
 
+[Правила](https://hwdtech.ru/blog/rules)
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
